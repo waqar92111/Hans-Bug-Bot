@@ -1,33 +1,33 @@
-//base by HaroldMth/HansTech
-//YouTube: @HansTech0
+//base by Anonymous 
+//YouTube: 
 //Instagram: NULL
 //Telegram: t.me/HansTech0
-//want more free bot ? subscribe to my youtube channel: https://youtube.com/@HansTech0
+//want more free bot ? subscribe to my youtube channel:
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237696900612"
-global.ownername = "*Hans Tech"
-global.ytname = "YT: HansTech0"
+global.ownernomer = ""
+global.ownername = "*"
+global.ytname = "YT: "
 global.socialm = ""
 global.location = "EARTH,AFRICA"
 
-global.ownernumber = '237696900612'  //creator number
-global.ownername = 'Harold MTH' //owner name
-global.botname = 'Hans-Bug-bot' //name of the bot
+global.ownernumber = ''  //creator number
+global.ownername = '' //owner name
+global.botname = '' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By Hans Tech'
-global.author = 'Hallo\n\nContact: 237696900612'
+global.packname = 'Sticker'
+global.author = 'Hallo\n\nContact: '
 
 //console view/theme
 global.themeemoji = '😎'
-global.wm = "Hans Tech😏"
+global.wm = 
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O'
+global.link = ''
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
